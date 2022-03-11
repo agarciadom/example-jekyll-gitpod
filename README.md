@@ -27,5 +27,5 @@ Feel free to make any changes and then reload your page in the browser.
 
 ## Publishing to Github Pages
 
-If you have just forked this repository, you will need to enable Github Pages to have it built and served automatically.
+If you have just created a new repository from this template, you will need to enable Github Pages for your repository to have the site built and served automatically.
 Check Step 2 of [these instructions](https://dev.to/github/how-to-use-github-pages-to-host-your-website-even-with-multiple-repos-27k2).
