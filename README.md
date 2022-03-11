@@ -1,6 +1,6 @@
 # example-jekyll-gitpod
 
-Sample repository for a Jekyll-based website using the [Minima](https://github.com/jekyll/minima/) theme, with [Gitpod](https://gitpod.io/) support.
+Sample repository for a [Jekyll](https://jekyllrb.com/)-based website using the [Minima](https://github.com/jekyll/minima/) theme, with [Gitpod](https://gitpod.io/) support.
 
 The resulting website is available at [https://bluezio.github.io/example-jekyll-gitpod/](https://bluezio.github.io/example-jekyll-gitpod/).
 
